@@ -3,4 +3,4 @@
 </div>
 # Light-box
 light-box+random img
-Рандомные изображения взятые с [сайта](https://unsplash.com/)
+Рандомные изображения взятые с [https://unsplash.com/](unsplash)
